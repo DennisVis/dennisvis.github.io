@@ -1,0 +1,10 @@
+{
+  "simulation": "com.xebia.bpt.loadtest.LoadTest",
+  "simulationId": "loadtest",
+  "start": 1470141968793,
+  "description": "",
+  "scenarios": ["BPT REST Scenario"],
+  "assertions": [
+
+  ]
+}
